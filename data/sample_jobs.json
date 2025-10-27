@@ -1,0 +1,94 @@
+{
+  "jobs": [
+    {
+      "id": "job_001",
+      "title": "Senior Python Developer",
+      "company": "TechCorp Inc.",
+      "location": "Remote",
+      "type": "Full-time",
+      "description": "We are seeking an experienced Python developer to join our team. Must have 5+ years of experience with Python, Django, and REST APIs.",
+      "requirements": [
+        "5+ years Python experience",
+        "Django framework expertise",
+        "REST API development",
+        "Database design (PostgreSQL, MySQL)",
+        "Git version control"
+      ],
+      "salary_range": "$120,000 - $160,000",
+      "posted_date": "2025-10-20",
+      "apply_url": "https://example.com/apply/job_001"
+    },
+    {
+      "id": "job_002",
+      "title": "Machine Learning Engineer",
+      "company": "AI Solutions Ltd.",
+      "location": "San Francisco, CA",
+      "type": "Full-time",
+      "description": "Join our ML team to build cutting-edge AI solutions. Experience with TensorFlow, PyTorch, and production ML systems required.",
+      "requirements": [
+        "3+ years ML/AI experience",
+        "TensorFlow or PyTorch",
+        "Python programming",
+        "Statistics and mathematics background",
+        "Cloud platforms (AWS/GCP/Azure)"
+      ],
+      "salary_range": "$140,000 - $180,000",
+      "posted_date": "2025-10-22",
+      "apply_url": "https://example.com/apply/job_002"
+    },
+    {
+      "id": "job_003",
+      "title": "Full Stack Developer",
+      "company": "WebDev Co.",
+      "location": "New York, NY",
+      "type": "Full-time",
+      "description": "Looking for a full stack developer proficient in both frontend and backend technologies. React and Node.js experience required.",
+      "requirements": [
+        "React.js expertise",
+        "Node.js and Express",
+        "RESTful API design",
+        "MongoDB or PostgreSQL",
+        "HTML/CSS/JavaScript"
+      ],
+      "salary_range": "$100,000 - $140,000",
+      "posted_date": "2025-10-23",
+      "apply_url": "https://example.com/apply/job_003"
+    },
+    {
+      "id": "job_004",
+      "title": "DevOps Engineer",
+      "company": "CloudOps Systems",
+      "location": "Remote",
+      "type": "Full-time",
+      "description": "Seeking a DevOps engineer to manage our cloud infrastructure and CI/CD pipelines. Kubernetes and Docker experience essential.",
+      "requirements": [
+        "Kubernetes and Docker",
+        "CI/CD pipeline setup",
+        "AWS or GCP",
+        "Infrastructure as Code (Terraform)",
+        "Linux system administration"
+      ],
+      "salary_range": "$110,000 - $150,000",
+      "posted_date": "2025-10-25",
+      "apply_url": "https://example.com/apply/job_004"
+    },
+    {
+      "id": "job_005",
+      "title": "Data Scientist",
+      "company": "Analytics Pro",
+      "location": "Boston, MA",
+      "type": "Full-time",
+      "description": "Data scientist position focusing on predictive modeling and data analysis. Strong Python and SQL skills required.",
+      "requirements": [
+        "Python (pandas, numpy, scikit-learn)",
+        "SQL and database querying",
+        "Statistical analysis",
+        "Data visualization (Tableau, matplotlib)",
+        "Machine learning algorithms"
+      ],
+      "salary_range": "$115,000 - $155,000",
+      "posted_date": "2025-10-26",
+      "apply_url": "https://example.com/apply/job_005"
+    }
+  ]
+}
